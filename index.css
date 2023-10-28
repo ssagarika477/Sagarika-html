@@ -1,0 +1,39 @@
+/* there ate three styling in css:Inline,external set*/
+/* alignment of header items with flexbox
+.box{
+    display : flex;
+ }
+ push{
+    margin-left :auto;
+  } 
+  
+  
+<div class="box">
+<div>One</div>
+<div class="push">*/
+h2{
+    color: blue;
+}
+
+p{
+    color:green;
+}
+body{
+    background-color: aqua;
+}
+button{
+    color: blue;
+    background-color: rgb(185, 156, 212);
+}
+h3{
+    color: green;
+}
+h4{
+    color: yellow;
+}
+h5{
+    color: pink;
+}
+h6{
+    color: purple;
+}
